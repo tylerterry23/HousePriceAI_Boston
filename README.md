@@ -29,16 +29,24 @@ This project is created with:
 To run this project locally:
 
 1. Clone the repository:
+```
 $ git clone https://github.com/tylerterry23/HousePriceAI_Boston.git
+```
 
 2. Go into the repository:
+```
 $ cd HousePriceAI_Boston
+```
 
 3. Install dependencies:
+```
 $ pip install -r requirements.txt
+```
 
 4. Run the Python script:
+```
 $ python boston_housing_price_prediction.py
+```
 
 ## Features
 
